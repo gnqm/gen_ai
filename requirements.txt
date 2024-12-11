@@ -1,0 +1,9 @@
+streamlit
+openai
+transformers
+pillow  # For image handling, if needed
+sdv  # For synthetic data generation, if applicable
+numpy  # For numerical operations
+pandas  # For data handling, if needed
+matplotlib  # For visualizations, if needed
+scikit-learn  # For data preprocessing, if needed
